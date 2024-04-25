@@ -4,8 +4,6 @@
 
 ![Screenshot_01](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/d5430cdf-e274-4603-b2b2-f274a1335d6b)
 
-![Screenshot_1](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/498797dd-1d67-46c1-baf5-6e10d10c582c)
-
 ![Screenshot_2](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/a1064e1e-8d14-4531-823d-5e723b58040b)
 
 ![Screenshot_3](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/da42ded1-3245-4985-8321-24cb1f184a8a)
@@ -20,7 +18,7 @@
 
 ![Screenshot_8](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/151fc4c5-b84e-4f86-81ab-bf5d15250783)
 
-![Screenshot_9](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/58741ca5-3126-4567-8c77-4582fa631d23)
+![Screenshot_1](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/498797dd-1d67-46c1-baf5-6e10d10c582c)
 
 ![Screenshot_11](https://github.com/YgorCavalheiroOficial/AI_Vision_MA/assets/157850301/75d6640f-a265-4fa5-9940-ae3a94b6ff8f)
 
